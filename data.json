@@ -1,5 +1,5 @@
 {
-  "map": [  
+  "map": [
     {
       "id": "3e3a",
       "firstName": "Amey",
@@ -13,90 +13,122 @@
       "state": "asdadasds",
       "City": "sdfdsf"
     },
-     {
-    "id": "1a1",
-    "firstName": "Amey",
-    "MiddleName": "Bahugune",
-    "lastName": "Patil",
-    "Email": "amey1@gmail.com",
-    "Phone": "9876543210",
-    "Address": "Nagpur Road",
-    "Pincode": "440001",
-    "Country": "India",
-    "state": "Maharashtra",
-    "City": "Nagpur"
-  },
-  {
-    "id": "2b2",
-    "firstName": "Rahul",
-    "MiddleName": "Kumar",
-    "lastName": "Sharma",
-    "Email": "rahul@gmail.com",
-    "Phone": "9876543211",
-    "Address": "MG Road",
-    "Pincode": "411001",
-    "Country": "India",
-    "state": "Maharashtra",
-    "City": "Pune"
-  },
-  {
-    "id": "3c3",
-    "firstName": "Amit",
-    "MiddleName": "Raj",
-    "lastName": "Verma",
-    "Email": "amit@gmail.com",
-    "Phone": "9876543212",
-    "Address": "Andheri East",
-    "Pincode": "400001",
-    "Country": "India",
-    "state": "Maharashtra",
-    "City": "Mumbai"
-  },
-  {
-    "id": "4d4",
-    "firstName": "Rohit",
-    "MiddleName": "Singh",
-    "lastName": "Yadav",
-    "Email": "rohit@gmail.com",
-    "Phone": "9876543213",
-    "Address": "Connaught Place",
-    "Pincode": "110001",
-    "Country": "India",
-    "state": "Delhi",
-    "City": "Delhi"
-  },
-  {
-    "id": "5e5",
-    "firstName": "Sneha",
-    "MiddleName": "Anil",
-    "lastName": "Patel",
-    "Email": "sneha@gmail.com",
-    "Phone": "9876543214",
-    "Address": "Ring Road",
-    "Pincode": "380001",
-    "Country": "India",
-    "state": "Gujarat",
-    "City": "Ahmedabad"
-  },
-  {
-    "id": "6f6",
-    "firstName": "Priya",
-    "MiddleName": "Rajesh",
-    "lastName": "Gupta",
-    "Email": "priya@gmail.com",
-    "Phone": "9876543215",
-    "Address": "Banjara Hills",
-    "Pincode": "500001",
-    "Country": "India",
-    "state": "Telangana",
-    "City": "Hyderabad"
-  }
- 
- 
- 
- 
-    
-
+    {
+      "id": "1a1",
+      "firstName": "Amey",
+      "MiddleName": "Bahugune",
+      "lastName": "Patil",
+      "Email": "amey1@gmail.com",
+      "Phone": "9876543210",
+      "Address": "Nagpur Road",
+      "Pincode": "440001",
+      "Country": "India",
+      "state": "Maharashtra",
+      "City": "Nagpur"
+    },
+    {
+      "id": "2b2",
+      "firstName": "Rahul",
+      "MiddleName": "Kumar",
+      "lastName": "Sharma",
+      "Email": "rahul@gmail.com",
+      "Phone": "9876543211",
+      "Address": "MG Road",
+      "Pincode": "411001",
+      "Country": "India",
+      "state": "Maharashtra",
+      "City": "Pune"
+    },
+    {
+      "id": "3c3",
+      "firstName": "Amit",
+      "MiddleName": "Raj",
+      "lastName": "Verma",
+      "Email": "amit@gmail.com",
+      "Phone": "9876543212",
+      "Address": "Andheri East",
+      "Pincode": "400001",
+      "Country": "India",
+      "state": "Maharashtra",
+      "City": "Mumbai"
+    },
+    {
+      "id": "4d4",
+      "firstName": "Rohit",
+      "MiddleName": "Singh",
+      "lastName": "Yadav",
+      "Email": "rohit@gmail.com",
+      "Phone": "9876543213",
+      "Address": "Connaught Place",
+      "Pincode": "110001",
+      "Country": "India",
+      "state": "Delhi",
+      "City": "Delhi"
+    },
+    {
+      "id": "5e5",
+      "firstName": "Sneha",
+      "MiddleName": "Anil",
+      "lastName": "Patel",
+      "Email": "sneha@gmail.com",
+      "Phone": "9876543214",
+      "Address": "Ring Road",
+      "Pincode": "380001",
+      "Country": "India",
+      "state": "Gujarat",
+      "City": "Ahmedabad"
+    },
+    {
+      "id": "6f6",
+      "firstName": "Priya",
+      "MiddleName": "Rajesh",
+      "lastName": "Gupta",
+      "Email": "priya@gmail.com",
+      "Phone": "9876543215",
+      "Address": "Banjara Hills",
+      "Pincode": "500001",
+      "Country": "India",
+      "state": "Telangana",
+      "City": "Hyderabad"
+    },
+    {
+      "id": "7ae7",
+      "firstName": "",
+      "MiddleName": "",
+      "lastName": "",
+      "Email": "",
+      "Phone": "",
+      "Address": "",
+      "Pincode": "",
+      "Country": "",
+      "state": "",
+      "City": ""
+    },
+    {
+      "id": "2b82",
+      "firstName": "",
+      "MiddleName": "",
+      "lastName": "",
+      "Email": "",
+      "Phone": "",
+      "Address": "",
+      "Pincode": "",
+      "Country": "",
+      "state": "",
+      "City": ""
+    },
+    {
+      "id": "8e24",
+      "firstName": "",
+      "MiddleName": "",
+      "lastName": "",
+      "Email": "",
+      "Phone": "",
+      "Address": "",
+      "Pincode": "",
+      "Country": "",
+      "state": "",
+      "City": ""
+    }
   ]
 }
-

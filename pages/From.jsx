@@ -113,6 +113,7 @@ const From = () => {
                 name='firstName' value={data.firstName} onChange={(e)=>handing(e)} 
                 className="w-full border rounded px-2 py-2"
                 placeholder='firstName '
+                required
               />
             </div>
 
@@ -122,6 +123,7 @@ const From = () => {
                 className="w-full border rounded px-3 py-2"
                  name='MiddleName' value={data.MiddleName} onChange={(e)=>handing(e)}
                   placeholder='MiddleName'
+                  required
               />
             </div>
 
@@ -130,6 +132,7 @@ const From = () => {
               <input
                 className="w-full border rounded px-3 py-2"
                 name='lastName' value={data.lastName}  onChange={(e)=>handing(e)} placeholder='lastName'
+                required
               />
             </div>
 
@@ -139,6 +142,7 @@ const From = () => {
                 className="w-full border rounded px-3 py-2"
                 placeholder="ashish@gmail.com"
                 type="email" name='Email' value={data.Email}  onChange={(e)=>handing(e)} 
+                required
               />
             </div>
 
@@ -148,6 +152,7 @@ const From = () => {
                 className="w-full border rounded px-3 py-2"
                 placeholder="0987654321"
                 type="number" name='Phone' value={data.Phone}  onChange={(e)=>handing(e)}
+                required
               />
             </div>
 
@@ -156,6 +161,7 @@ const From = () => {
               <textarea
               name='Address' value={data.Address}  onChange={(e)=>handing(e)} 
                 className="w-full border rounded px-3 py-2"
+                required
                 placeholder="Type your address here..."
               ></textarea>
             </div>
@@ -164,6 +170,7 @@ const From = () => {
               <label className="text-sm">Pin Code *</label>
               <input className="w-full border rounded px-3 py-2"
               type="number" name='Pincode' value={data.Pincode}  onChange={(e)=>handing(e)} placeholder='Pincode'
+              required
                />
             </div>
 
@@ -171,6 +178,7 @@ const From = () => {
               <label className="text-sm">Country *</label>
               <input className="w-full border rounded px-3 py-2" 
               name='Country' value={data.Country}  onChange={(e)=>handing(e)} placeholder='Country'
+              required
                />
             </div>
 
@@ -178,6 +186,7 @@ const From = () => {
               <label className="text-sm">State *</label>
               <input className="w-full border rounded px-3 py-2" 
               name='state' value={data.state}  onChange={(e)=>handing(e)} placeholder='state'
+              required
               />
             </div>
 
@@ -185,6 +194,7 @@ const From = () => {
               <label className="text-sm">City *</label>
               <input
               name='City' value={data.City}  onChange={(e)=>handing(e)} placeholder='City'
+              required
                className="w-full border rounded px-3 py-2" />
 
             </div>
