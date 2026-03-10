@@ -48,7 +48,6 @@ const From = () => {
      
       <div className="flex h-screen bg-gray-100">
 
-      {/* Sidebar */}
       <div className="w-64 bg-white border-r">
 
         <div className="p-4 font-bold text-lg border-b">
@@ -77,10 +76,8 @@ const From = () => {
 
       </div>
 
-      {/* Main Content */}
       <div className="flex-1 p-6">
 
-        {/* Tabs */}
         <div className="flex gap-3 mb-4">
           <button className="px-4 py-2 bg-gray-200 rounded">Personal</button>
           <button className="px-4 py-2 bg-gray-100 rounded">Education</button>

@@ -5,16 +5,13 @@ import { saveAs } from "file-saver";
 
 const Table = () => {
  const [data , setdata]=useState([])
-  // const [page, setPage] = useState(0);
 
 
   const limit = 10;
-  // useEffect(()=>{
 
 
 
 
-  // const [data, setData] = useState([]);
   const [page, setPage] = useState(0);
    const [start, setStart] = useState(0);
 
@@ -66,7 +63,6 @@ const Table = () => {
   <div className="flex h-screen bg-gray-100">
 
 
-      {/* Sidebar */}
       <div className="w-64 bg-white border-r">
 
         <div className="p-4 font-bold text-lg border-b">
@@ -107,10 +103,8 @@ const Table = () => {
       </div>
 
 
-      {/* Main Content */}
       <div className="flex-1 p-6">
 
-        {/* Header */}
         <div className="flex justify-between items-center mb-6">
 
           <div>
